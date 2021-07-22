@@ -1,0 +1,9 @@
+{
+  "provisioning" :
+    ["Certs/iOScertificate/meirtsvi/Trends_development.mobileprovision",
+      "Certs/iOScertificate/meirtsvi/TrendsWatchKitExtension_development.mobileprovision",
+      "Certs/iOScertificate/meirtsvi/Trendswatchkit_development.mobileprovision"
+    ],
+  "certificate": "Certs/iOScertificate/meirtsvi/meir_developer.p12",
+  "password": "maverick28"
+}

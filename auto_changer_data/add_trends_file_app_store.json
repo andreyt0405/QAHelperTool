@@ -1,0 +1,11 @@
+{
+  "data":
+          [
+            {
+              "test_name": "add_file_1",
+              "profile": "auto_changer_data/profiles/meir_tsvi_trends_app_store.json",
+              "action": "add_file",
+              "location_in_zip": "Payload/Trends256.app/add_file_1"
+            }
+          ]
+}

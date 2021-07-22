@@ -1,0 +1,10 @@
+ERROR: The identity: 1234 was not found in the keychain.
+Valid identities by name are:
+iPhone Distribution: AE SQUARED LTD
+iPhone Developer: Build Server (F4YDD8ET9S)
+Apple Development: nftestqa@gmail.com (VL9RBTJX53)
+Valid identitys by sha-1 are:
+C51A50C715BC9FB2CC41152E5A3C8A9DF5D4B92F
+9EDA8EEAEEBD73D6D66B9A6A0BA88652C6791924
+8C1E21685FFE9743351321369E7CECEFAA4AA60B
+

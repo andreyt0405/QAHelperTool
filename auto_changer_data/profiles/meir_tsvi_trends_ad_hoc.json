@@ -1,0 +1,9 @@
+{
+  "provisioning" :
+    ["Certs/iOScertificate/meirtsvi/XC_Ad_Hoc_commeirtsviTrends.mobileprovision",
+      "Certs/iOScertificate/meirtsvi/XC_Ad_Hoc_commeirtsviTrendsWatchkit.mobileprovision",
+      "Certs/iOScertificate/meirtsvi/XC_Ad_Hoc_commeirtsviTrendsWatchkitExtension.mobileprovision"
+    ],
+  "certificate": "Certs/iOScertificate/meirtsvi/meirtsvi75.p12",
+  "password": "maverick28"
+}
